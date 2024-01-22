@@ -1,0 +1,1 @@
+En este repositorio incluiré trabajos basicos, principalmente pedadogicos para aprender Data Science
